@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+}
+
+.background-changer {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    /* border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); */
+}
+
+.background-changer h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.background-changer label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.background-changer input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.background-changer button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
